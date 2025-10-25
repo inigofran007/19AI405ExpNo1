@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name:inigo fran </h3>
+<h3>Name: INIGO FRAN A </h3>
 <h3>Register Number: 212224030011</h3>
 
 
