@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: NALINIPRIYA G </h3>
-<h3>Register Number/Staff Id: TSIT031</h3>
+<h3>Name:inigo fran </h3>
+<h3>Register Number: 212224030011</h3>
 
 
 <h3>AIM:</h3>
@@ -40,3 +40,12 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+OUTPUT:
+
+<img width="588" height="177" alt="image" src="https://github.com/user-attachments/assets/647ca798-8cb3-47fc-856c-613905e48cc2" />
+
+RESULT:
+
+Thus, the PEAS description for the Medicine Prescribing Agent was successfully developed and implemented.
+
